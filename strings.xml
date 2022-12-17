@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Zakat Payment Gold Keep</string>
+    <string name="get_weight">Weight of Gold (g)</string>
+    <string name="get_type">Type of Gold</string>
+    <string name="gold">gold</string>
+    <string name="wear">wear</string>
+    <string name="get_current">Current Gold Value / Gram RM</string>
+    <string name="calculate">Calculate</string>
+    <string name="tv_about_us">About Us</string>
+
+    <string name="t_information">INFORMATION</string>
+    <string name="t_student_name">Student Name:</string>
+    <string name="t_student_id">Student ID:</string>
+    <string name="t_group">Group:</string>
+    <string name="t_program_code">Program Code:</string>
+    <string name="t_github">Github URL:</string>
+
+    <string name="information">Zakat Payment for Gold Keeping Mobile Application. This mobile application is use for calculation of zakat payment gold keeping.</string>
+    <string name="student_name">NUR NAFIZAH BINTI ISHAK</string>
+    <string name="student_id">2020812754</string>
+    <string name="group">RCS2405A</string>
+    <string name="program_code">ICT602</string>
+    <string name="github">
+        <a href="https://github.com/nfzhshk/ZakatPayment1">https://github.com/nfzhshk/ZakatPayment1.git</a></string>
+
+</resources>
